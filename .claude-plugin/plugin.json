@@ -1,0 +1,11 @@
+{
+  "name": "handwriting-to-md",
+  "description": "Convert handwritten PDFs (reMarkable and other tablets, scans) into editable Markdown, with diagrams as Mermaid or images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lukas Kosina",
+    "url": "https://github.com/kosinal"
+  },
+  "repository": "https://github.com/kosinal/handwriting-to-md",
+  "license": "Apache-2.0"
+}

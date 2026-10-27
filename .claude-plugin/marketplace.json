@@ -1,0 +1,14 @@
+{
+  "name": "handwriting-to-md",
+  "description": "Handwritten PDF to Markdown",
+  "owner": {
+    "name": "Lukas Kosina"
+  },
+  "plugins": [
+    {
+      "name": "handwriting-to-md",
+      "source": "./",
+      "description": "Convert handwritten PDFs (reMarkable and other tablets, scans) into editable Markdown, with diagrams as Mermaid or images."
+    }
+  ]
+}
